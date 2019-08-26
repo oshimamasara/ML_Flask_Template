@@ -1,5 +1,6 @@
 <img src="https://pythonchannel.com/media/github/ML_Flask_Demo.jpg" width="90%">
 
+https://www.youtube.com/watch?v=ZYH9HgQQZOw
 
 .pkl ファイルを足して、入力・予測出力できるテンプレ
 
